@@ -26,7 +26,7 @@ In the video below, I'll introduce you to R and talk about the importance of ado
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/-YrMqaFXJnA " frameborder="0" data-external="1" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/GKJmY_YebhU" frameborder="0" data-external="1" allowfullscreen></iframe>
 
 </center>
 
@@ -48,13 +48,37 @@ If you are using a Chromebook, or have a tablet, or are having difficulties inst
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/HV1rs0ZbDYo" frameborder="0" data-external="1" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/nsu2WQIeP5I" frameborder="0" data-external="1" allowfullscreen></iframe>
 
 </center>
 
 &nbsp;&nbsp;
 
 You can view the slides [here](https://docs.google.com/presentation/d/19Y70sxKZH0Wp1Lm-0FMktiHjfAHBvHJHSfdxpPQuIgA/edit?usp=sharing).
+
+## Customising RStudio Desktop
+ 
+ &nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/fwonkj-hZYc" frameborder="0" data-external="1" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+## Keeping Things Organised
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/JslVB6Vfn0Q" frameborder="0" data-external="1" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 ## Installing Packages
 
@@ -64,7 +88,7 @@ When you first instal R, you'll see it comes with only a small number of package
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/HV1rs0ZbDYo" frameborder="0" data-external="1" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/_bsHuptFB3s" frameborder="0" data-external="1" allowfullscreen></iframe>
 
 </center>
 
@@ -76,7 +100,7 @@ Both days will be run via Zoom. Make sure you install the [Zoom client](https://
 
 The Zoom room for Day One and Day Two is:
 
-[https://zoom.us/j/97902638536](https://zoom.us/j/97902638536)
+
 
 
 
