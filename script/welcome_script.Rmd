@@ -10,7 +10,7 @@ output:
 ---
 # Welcome
 
-Welcome everyone to my R Course for the Open University. This page contains links to all the content that we'll be covering over the two days. There is a little bit of preparation work I'd like you to do in advance. Before the course itself I'd like you to watch a few brief videos introducing R and RStudio. R is the programming language itself, and RStudio is the interface we use to interact with the language. It's important that you have working installations of R and RStudio on your computers before the course starts, so if you have any trouble getting those two things up and running please let me know in advance. You can contact me via [email](mailto:drandrewjstewart@gmail.com) or direct message on [Twitter](https://twitter.com/ajstewart_lang).
+Welcome everyone to my R Course for the Open University. There is a little bit of preparation work I'd like you to do in advance. Before the course itself I'd like you to watch the videos below. R is the programming language, and RStudio Desktop is the interface we use to interact with the language. It's important that you have working installations of R and RStudio Desktop on your computers before the course starts, so if you have any trouble getting those two things up and running please let me know in advance. You can contact me via [email](mailto:drandrewjstewart@gmail.com) or direct message on [Twitter](https://twitter.com/ajstewart_lang).
 
 First off, have a look at this video about the course.
 
@@ -90,7 +90,7 @@ You can view the slides [here](https://docs.google.com/presentation/d/19Y70sxKZH
 
 ## Installing Packages
 
-When you first instal R, you'll see it comes with only a small number of packages. Much of the data wrangling/visualisation/modelling that we'll be doing on this course requires the use of additional packages. In this video I'll show you how to install the ones that we'll need to use.
+When you first instal R, you'll see it comes with only a small number of packages. Much of the data wrangling/visualisation/modeling that we'll be doing on this course requires the use of additional packages. In this video I'll show you how to install the ones that we'll need to use.
 
 &nbsp;&nbsp;
 
@@ -106,11 +106,7 @@ When you first instal R, you'll see it comes with only a small number of package
 
 Both days will be run via Zoom. Make sure you install the [Zoom client](https://zoom.us/download) beforehand.
 
-The Zoom room for Day One and Day Two is:
-
-
-
-
+I'll circulate the Zoom details beforehand.
 
 ## Technical Details
 All of the material in this workshop was created using open source where possible. I used a [Lenovo ThinkPad X13](https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/ThinkPad-X13-Intel-/p/22TPX13X3N1) running [GNU/Linux distro Ubuntu 20.04 LTS (Focal Fossa)](https://releases.ubuntu.com/20.04/). The audio was captured with a [Fifine USB Podcasting microphone](https://www.amazon.co.uk/Condenser-Microphone-Recording-Interface-Power-K669/dp/B01N034RTC/ref=sr_1_1_sspa?crid=141Z8ED4VGCVD&dchild=1&keywords=fifine+usb+podcast+condenser+microphone&qid=1594989611&sprefix=fifne+usb%2Caps%2C162&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFMzAxOE5DUDJIREwmZW5jcnlwdGVkSWQ9QTA4MzA2NjIxVU40MlhNMFNCTDhWJmVuY3J5cHRlZEFkSWQ9QTA5NDI2OTQxOFY0R002UVJBS1AzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) and the video with a [Razer Kiyo webcam](https://www.amazon.co.uk/Razer-Streaming-Adjustable-Brightness-Microphone/dp/B076QK6489/ref=sr_1_3?dchild=1&keywords=razer+kiyo&qid=1594989677&sr=8-3). The audio and video were recorded using [Open Broadcaster Software](https://obsproject.com/) and edited using [Shotcut](https://shotcut.org/). The R code was written using [R 4.0.5](https://www.r-project.org/), and run in [RStudio Desktop IDE](https://rstudio.com/products/rstudio/download/) version 1.4.1106.
