@@ -14,7 +14,15 @@ Welcome everyone to my R Course for the Open University. This page contains link
 
 First off, have a look at this video about the course.
 
-Video 1 here - cover intro, overview of material, code along
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/nN-9qf8UI8I" frameborder="0" data-external="1" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 ## Why R?
 
