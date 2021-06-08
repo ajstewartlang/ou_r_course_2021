@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 author: "[Andrew Stewart](https://ajstewartlang.netlify.app/)"
-date: "July 2021"
+date: "8th and 9th July 2021"
 output: 
   html_document:
     theme: flatly
@@ -10,7 +10,7 @@ output:
 ---
 # Welcome
 
-Welcome everyone to my R Course for the Open University. There is a little bit of preparation work I'd like you to do in advance. Before the course itself I'd like you to watch the videos below. R is the programming language, and RStudio Desktop is the interface we use to interact with the language. It's important that you have working installations of R and RStudio Desktop on your computers before the course starts, so if you have any trouble getting those two things up and running please let me know in advance. You can contact me via [email](mailto:drandrewjstewart@gmail.com) or direct message on [Twitter](https://twitter.com/ajstewart_lang).
+Welcome everyone to my R Course for the Open University. There is a little bit of preparation work I'd like you to do in advance. Before the course itself I'd like you to watch the videos below and install R and RStudio Desktop. R is the programming language, and RStudio Desktop is the interface we use to interact with the language. It's important that you have working installations of R and RStudio Desktop on your computers before the course starts, so if you have any trouble getting those two things up and running please let me know in advance. You can contact me via [email](mailto:drandrewjstewart@gmail.com) or direct message on [Twitter](https://twitter.com/ajstewart_lang).
 
 First off, have a look at this video about the course.
 
@@ -44,7 +44,7 @@ You can view the slides [here](https://docs.google.com/presentation/d/1CkatVluJF
 
 ## Getting Started
 
-Before the course, please install R (the language) and RStudio (the interface that helps us interact with R) - each is available for MacOS, Windows, and Linux. The Mac version of R can be installed from [here](https://www.stats.bris.ac.uk/R/bin/macosx/R-4.0.5.pkg) and the Windows version from [here](https://www.stats.bris.ac.uk/R/bin/windows/base/R-4.0.5-win.exe).
+Before the course, please install R (the language) and RStudio Desktop (the interface that helps us interact with R) - each is available for MacOS, Windows, and Linux. The Mac version of R can be installed from [here](https://www.stats.bris.ac.uk/R/bin/macosx/R-4.0.5.pkg) and the Windows version from [here](https://www.stats.bris.ac.uk/R/bin/windows/base/R-4.0.5-win.exe).
 
 The Mac version of RStudio Desktop can be installed from [here](https://download1.rstudio.org/desktop/macos/RStudio-1.4.1106.dmg) and the Windows version from [here](https://download1.rstudio.org/desktop/windows/RStudio-1.4.1106.exe).
 
